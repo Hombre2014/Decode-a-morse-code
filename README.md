@@ -29,6 +29,7 @@ N/A
 
 ### Usage
 
+- go to the project folder: `cd Decode-a-morse-code`
 - run: `ruby decode.rb`
 
 ### Deployment

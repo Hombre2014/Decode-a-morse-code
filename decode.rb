@@ -29,3 +29,6 @@ def decode(code)
 end
 
 puts decode('-- -.--   -. .- -- .')
+
+# Decode the message from the old bottle:
+puts decode('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
