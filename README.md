@@ -12,12 +12,12 @@ The project requirements can be viewed [here](https://github.com/microverseinc/c
 
 - Major languages: Ruby
 - Frameworks: N/A
-- Technologies used: N/A
-- Tested with: - [Rubocop](https://rubocop.org/)
+- Technologies used: [Rubocop](https://rubocop.org/)
+- Tested with: N/A
 
 ### Prerequisites
 
-N/A
+Install [ruby](https://www.ruby-lang.org/en/)
 
 ### Setup
 
@@ -29,6 +29,8 @@ N/A
 
 ### Usage
 
+- run: `git clone https://github.com/Hombre2014/Decode-a-morse-code`
+- go to the project folder: `cd Decode-a-morse-code`
 - run: `ruby decode.rb`
 
 ### Deployment
