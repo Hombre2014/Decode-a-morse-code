@@ -29,6 +29,7 @@ N/A
 
 ### Usage
 
+- run: `git clone https://github.com/Hombre2014/Decode-a-morse-code`
 - go to the project folder: `cd Decode-a-morse-code`
 - run: `ruby decode.rb`
 
