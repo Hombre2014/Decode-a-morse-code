@@ -13,10 +13,10 @@ puts decode_char('.-')
 def decode_word(code)
   result = ''
   arr = code.split
-  arr.each do |char| 
-    result = result + decode_char(char)
+  arr.each do |char|
+    result += decode_char(char)
   end
-  return result
+  result
 end
 
 puts decode_word('-- -.--')
